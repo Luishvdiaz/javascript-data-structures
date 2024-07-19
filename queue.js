@@ -22,7 +22,6 @@ class QueueClass {
     return this.#items[0];
   }
 
-
   size() {
     return this.#items.length;
   }
